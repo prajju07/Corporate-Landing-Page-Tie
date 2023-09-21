@@ -13,5 +13,5 @@
 
   Every field is of 250 length , for both email-newsletter and userdata.
 
-Here is the live Link:- https://rkr411.github.io/Corporate-Landing-Page-Tie/index.html?
+Here is the live Link:- https://prajju07.github.io/Corporate-Landing-Page-Tie/
 
